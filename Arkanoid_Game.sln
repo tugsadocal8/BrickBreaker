@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{56D8714B-78F1-93F5-9661-9A8B2DDC0BEB}") = "Arkanoid_Game", "Assembly-CSharp.csproj", "{4CCD15AA-C024-1B8C-4B33-49FF72DA94DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CCD15AA-C024-1B8C-4B33-49FF72DA94DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCD15AA-C024-1B8C-4B33-49FF72DA94DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCD15AA-C024-1B8C-4B33-49FF72DA94DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCD15AA-C024-1B8C-4B33-49FF72DA94DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
